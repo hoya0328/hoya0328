@@ -64,13 +64,13 @@ Learn and Improve
 
 개인 또는 팀으로 제품을 기획하고 직접 개발·배포하며 기술적 실행력을 보여주는 프로젝트입니다.
 
-#### 모험 한 칸 · Adventure Focus Quest
+#### Focus Quest · Pixel Pomodoro Adventure
 
 > 픽셀 친구와 함께 집중 시간을 작은 모험으로 바꾸는 반응형 포모도로 타이머
 
 | Product | Product Story |
 |---|---|
-| <img src="https://raw.githubusercontent.com/hoya0328/adventure-focus-quest/main/public/characters/momo-hiking.png" width="160" alt="모험 한 칸의 모모" /> | **Problem** · 공부할 때 휴대폰을 강제로 차단하지 않고도 자연스럽게 멀리할 수 있을까?<br><br>**Solution** · 캐릭터 모험, 전체 화면 집중 경험과 실시간 생성 BGM을 결합해 타이머를 바라보는 시간을 즐거운 몰입 경험으로 설계했습니다.<br><br>**My Focus** · Product Planning · UX Flow · MVP Scoping · Prototyping · Responsive Web · Deployment<br><br>[Live Demo](https://hoya0328.github.io/adventure-focus-quest/) · [Repository](https://github.com/hoya0328/adventure-focus-quest) |
+| <img src="https://raw.githubusercontent.com/hoya0328/focus-quest/main/public/characters/momo-hiking.png" width="160" alt="Focus Quest의 모모" /> | **Problem** · 공부할 때 휴대폰을 강제로 차단하지 않고도 자연스럽게 멀리할 수 있을까?<br><br>**Solution** · 캐릭터 모험, 전체 화면 집중 경험과 실시간 생성 BGM을 결합해 타이머를 바라보는 시간을 즐거운 몰입 경험으로 설계했습니다.<br><br>**My Focus** · Product Planning · UX Flow · MVP Scoping · Prototyping · Responsive Web · Deployment<br><br>[Live Demo](https://hoya0328.github.io/focus-quest/) · [Repository](https://github.com/hoya0328/focus-quest) |
 
 #### GachonGrow
 
