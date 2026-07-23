@@ -49,9 +49,22 @@ Learn and Improve
 
 실제 서비스 환경을 경험하며 제품의 완성도는 기능뿐 아니라 사용자가 안정적으로 서비스를 이용하는 전체 과정에서 만들어진다는 관점을 얻었습니다. 이 경험을 바탕으로 기술 조직과 원활하게 소통하고, 실행 가능성과 지속 가능성을 함께 고려하는 제품을 기획합니다.
 
-## Featured Product
+## Project Portfolio
 
-### 모험 한 칸 · Adventure Focus Quest
+### 01. Product Management & Service Design
+
+해커톤과 동아리에서 PM으로 참여해 문제를 정의하고, 사용자 경험과 서비스 구조를 설계한 프로젝트입니다.
+
+| Project | User Problem | Product Design |
+|---|---|---|
+| **Plantmate** | 1인 가구가 자신의 환경과 취향에 맞는 식물을 선택하고 관리하기 어려운 문제 | 추천 테스트에서 커머스와 구독까지 이어지는 사용자 여정과 비즈니스 모델 설계 |
+| **TitchTitch** | 디지털 약자가 실제 키오스크 앞에서 느끼는 부담과 반복 학습의 어려움 | 가상 시뮬레이션과 개인화 가이드를 활용한 접근성 중심 학습 경험 설계 |
+
+### 02. Build & Engineering Projects
+
+개인 또는 팀으로 제품을 기획하고 직접 개발·배포하며 기술적 실행력을 보여주는 프로젝트입니다.
+
+#### 모험 한 칸 · Adventure Focus Quest
 
 > 픽셀 친구와 함께 집중 시간을 작은 모험으로 바꾸는 반응형 포모도로 타이머
 
@@ -59,13 +72,13 @@ Learn and Improve
 |---|---|
 | <img src="https://raw.githubusercontent.com/hoya0328/adventure-focus-quest/main/public/characters/momo-hiking.png" width="160" alt="모험 한 칸의 모모" /> | **Problem** · 공부할 때 휴대폰을 강제로 차단하지 않고도 자연스럽게 멀리할 수 있을까?<br><br>**Solution** · 캐릭터 모험, 전체 화면 집중 경험과 실시간 생성 BGM을 결합해 타이머를 바라보는 시간을 즐거운 몰입 경험으로 설계했습니다.<br><br>**My Focus** · Product Planning · UX Flow · MVP Scoping · Prototyping · Responsive Web · Deployment<br><br>[Live Demo](https://hoya0328.github.io/adventure-focus-quest/) · [Repository](https://github.com/hoya0328/adventure-focus-quest) |
 
-## Product & Service Projects
+#### GachonGrow
 
-| Project | Product Problem | PM Perspective |
+> 학생의 프로젝트 경험과 포트폴리오를 다음 성장으로 연결하는 피드백 커뮤니티
+
+| Product Problem | Build Scope | Product Focus |
 |---|---|---|
-| **GachonGrow** | 학생들이 프로젝트와 포트폴리오를 공유하고 서로 피드백하기 어려운 문제 | 프로젝트 경험을 다음 성장으로 연결하는 커뮤니티 구조와 핵심 기능 설계 · Full-Stack 서비스 구현 |
-| **Plantmate** | 1인 가구가 자신의 환경과 취향에 맞는 식물을 선택하고 관리하기 어려운 문제 | 추천 테스트에서 커머스와 구독까지 이어지는 사용자 여정과 비즈니스 모델 설계 |
-| **TitchTitch** | 디지털 약자가 실제 키오스크 앞에서 느끼는 부담과 반복 학습의 어려움 | 가상 시뮬레이션과 개인화 가이드를 활용한 접근성 중심 학습 경험 설계 |
+| 학생들이 프로젝트와 포트폴리오를 공유하고 서로 피드백하기 어려운 문제 | React · TypeScript · Node.js · Express.js · PostgreSQL · Supabase 기반 Full-Stack 서비스 | 커뮤니티 핵심 구조 · 사용자 흐름 · 인증 · 프로젝트 및 포트폴리오 공유 경험 |
 
 ## Product Capabilities
 
